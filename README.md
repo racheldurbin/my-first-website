@@ -1,8 +1,8 @@
-# _{my-first-website}_
+# _my-first-website_
 
-#### _{First website ever built}_
+#### _First website ever built_
 
-#### By _**{Rachel Durbin}**_
+#### By _**Rachel Durbin**_
 
 ## Technologies Used
 
@@ -10,7 +10,7 @@
 
 ## Description
 
-_{Webpage explaining it was my first project and what I hope to learn at Epicodus.}_
+Webpage explaining it was my first project and what I hope to learn at Epicodus.
 
 ## Setup/Installation Requirements
 
